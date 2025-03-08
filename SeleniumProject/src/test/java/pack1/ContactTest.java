@@ -22,6 +22,6 @@ public class ContactTest {
 	public void modifycontactTest() {
 		System.out.println("execute modifycontactTest");
 		//check
-		//check
+	
 }
 }

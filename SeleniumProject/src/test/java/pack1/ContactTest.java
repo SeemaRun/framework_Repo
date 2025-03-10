@@ -21,7 +21,10 @@ public class ContactTest {
 	@Test
 	public void modifycontactTest() {
 		System.out.println("execute modifycontactTest");
-		//check
+	}
 	
+		@Test
+		public void deletecontactTest() {
+			System.out.println("execute modifycontactTest");
 }
 }
